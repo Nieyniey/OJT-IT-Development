@@ -1,0 +1,216 @@
+.header{
+  border-bottom: solid 5px #292929;
+  font-family: 'Inter';
+  font-size: 20px;
+}
+
+.header-left{
+  margin-left: 50px;
+  display: flex;
+}
+
+.name-BSLC{
+  margin-left: 10px;
+  margin-top: 40px;
+}
+
+.header-right{
+  margin-left: 350px;
+}
+
+.right{
+  color: black;
+  text-decoration: none;
+  font-weight: normal;
+  font-size: 15px;
+}
+
+.SCAC{
+  margin-left: 20px;
+  color: black;
+  text-decoration: none;
+  font-weight: normal;
+  font-size: 15px;
+}
+
+.bergabung{
+  display: flex;
+  margin-left: 50px;
+}
+
+.bergabung-text{
+  margin-top: 70px;
+}
+
+.opening{
+  font-size: 50px;
+  margin-bottom: 20px;
+  font-weight: bolder;
+}
+
+.hola{
+  color: #19A89D;
+  font-weight: normal;
+}
+
+.tertarik{
+  font-size: 30px;
+}
+
+.video-bslc-judul{
+  font-size: 33px;
+  font-weight: normal;
+}
+
+.bergabung-sekarang {
+  background-color: #19A89D;
+  color: white;
+  border: none;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: opacity 0.15s;
+  font-size: 20px;
+}
+
+.bergabung-sekarang:hover{
+  opacity: 0.7;
+  transition: opacity 0.15s;
+}
+
+.bergabung-sekarang:active{
+  opacity: 0.4;
+}
+
+.mentor-mentee{
+  display: flex;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.mentor-mentee-judul{
+  font-weight: bold;
+  font-size: 50px;
+  display: flex;
+}
+
+.mentor-logo{
+  padding-top: 70px;
+}
+
+.mentor-judul{
+  padding-top: 40px;
+}
+
+.mentor-text{
+  font-size: 15px;
+  padding-right: 90px;
+  text-align: center;
+  text-align: justify;
+}
+
+.mentee-logo{
+  padding-top: 80px;
+  padding-left: 40px;
+}
+
+.mentee-judul{
+  padding-top: 38px;
+}
+
+.mentee-text{
+  font-size: 15px;
+  padding-left: 40px;
+  text-align: center;
+  text-align: justify;
+}
+
+.mengenal{
+  text-align: center;
+  margin-bottom: 100px;
+}
+
+.label{
+  font-style: italic;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  width: 700px;
+  font-family: 'Inter';
+  font-size: 20px;
+}
+
+.feedback{
+  display: flex;
+  margin-left: 50px;
+  margin-bottom: 90px;
+}
+
+.sampaikan{
+  font-size: 25px;
+  margin-bottom: 10px;
+}
+
+.pesan{
+  color: #19A89D;
+}
+
+.kirim{
+  background-color: #19A89D;
+  color: white;
+  border: none;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: opacity 0.15s;
+  font-size: 20px;
+}
+
+.kirim:hover{
+  opacity: 0.7;
+  transition: opacity 0.15s;
+}
+
+.kirim:active{
+  opacity: 0.4;
+}
+
+.bottom-pict{
+  padding-left: 50px;
+  margin-top: 100px;
+}
+
+.footer{
+  background-color: #292929;
+  display: flex;
+}
+.contact{
+  font-size: 20px;
+  color: white;
+  margin-left: 50px;
+}
+
+.logo{
+  margin-left: 50px;
+}
+
+.logos{
+  color: #292929;
+}
+
+.LogoBSLC2{
+  margin-top: 28px;
+  margin-left: 500px;
+}
+
+p {
+  font-family: 'Inter';
+}
